@@ -2,8 +2,6 @@
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2025-0078D6?logo=windows&logoColor=white)
 ![Server](https://img.shields.io/badge/Type-Server_OS-blue)
-![Hyper-V](https://img.shields.io/badge/Virtualization-Hyper--V-blue)
-![Active Directory](https://img.shields.io/badge/Role-Active_Directory-purple)
 ![Guide](https://img.shields.io/badge/Guide-Installation-blue)
 
 ---
