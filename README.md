@@ -1,5 +1,11 @@
 # ` 🪟 `︲Doc-Technique-Installation-Windows-Server-2025
 
+![Windows Server](https://img.shields.io/badge/Windows_Server-2025-0078D6?logo=windows&logoColor=white)
+![Server](https://img.shields.io/badge/Type-Server_OS-blue)
+![Hyper-V](https://img.shields.io/badge/Virtualization-Hyper--V-blue)
+![Active Directory](https://img.shields.io/badge/Role-Active_Directory-purple)
+![Guide](https://img.shields.io/badge/Guide-Installation-blue)
+
 ---
 
 Ce dépôt GitHub met à disposition une documentation claire et complète pour réaliser une installation propre de Windows 11 Server en machine virtuelle, grâce à un guide structuré étape par étape et illustré de captures d’écran pour faciliter la compréhension.
